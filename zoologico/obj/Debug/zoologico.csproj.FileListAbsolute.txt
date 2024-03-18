@@ -1,0 +1,7 @@
+C:\Users\delmy\Desktop\zoologico\zoologico\bin\Debug\zoologico.exe.config
+C:\Users\delmy\Desktop\zoologico\zoologico\bin\Debug\zoologico.exe
+C:\Users\delmy\Desktop\zoologico\zoologico\bin\Debug\zoologico.pdb
+C:\Users\delmy\Desktop\zoologico\zoologico\obj\Debug\zoologico.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\zoologico\zoologico\obj\Debug\zoologico.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\zoologico\zoologico\obj\Debug\zoologico.exe
+C:\Users\delmy\Desktop\zoologico\zoologico\obj\Debug\zoologico.pdb
